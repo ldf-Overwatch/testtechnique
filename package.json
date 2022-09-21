@@ -1,0 +1,23 @@
+{
+  "name": "test-techinique-bankin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "engines" : {
+    "npm" : ">=6.0.0",
+    "node" : ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
