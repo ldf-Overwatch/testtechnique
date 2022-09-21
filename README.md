@@ -1,1 +1,1 @@
-# testtechnique
+# test-technique
